@@ -7,7 +7,7 @@
  
 - 🎓 I'm Nguyen Xuan Hiep, and I have completed Bsc Mechanical Engineering <a href="https://edu.unideb.hu/p/mechanical-engineering-bsc">@UniDeb</a>.
 - 🌐 Explore my [porfolio website](https://hiepnguyen2000.github.io/Hiep.github.io/) for my background.
-- 👩🏻‍💻 Interested in .......
+- 👩🏻‍💻 Interested in Conceptualization and Ideation, Design Development, and Product Improvement and Innovation.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
